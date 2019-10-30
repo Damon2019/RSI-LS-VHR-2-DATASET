@@ -2,6 +2,9 @@
  
 To advance performance evaluation research in remote sensing object detection, we built the Remote Sensing Imagery of Large-Scale-VHR-2 categories (RSI LS-VHR-2) dataset, which is much larger than most existing datasets in this field. Table Ⅰ lists the details of the dataset for two categories, aircraft and ship. 
 
+example
+![Image text](https://github.com/Damon2019/RSI-LS-VHR-2-DATASET/blob/master/demo/airplane.png)
+
 ### TABLE Ⅰ. DESCRIPTION OF THE RSI LS-VHR-2 DATASET
 
 Label	   |  Name	  |  Total instances	   | Complete instances	  |  Fragmentary instances	  |  Scene class	  |  Images	   |  Image width	  |  Sub-images
